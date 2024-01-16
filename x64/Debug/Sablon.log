@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(143,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(143,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(157,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(159,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(160,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(161,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(161,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(162,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(203,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(204,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(345,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\main.cpp(396,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> D:\Fakultet\cetvrta_godina\Grafika\projekat2\x64\Debug\Sablon.exe

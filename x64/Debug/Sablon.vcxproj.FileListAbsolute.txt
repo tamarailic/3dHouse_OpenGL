@@ -1,0 +1,2 @@
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\x64\Debug\glew32.dll
+D:\Fakultet\cetvrta_godina\Grafika\projekat2\x64\Debug\Sablon.exe
